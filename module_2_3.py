@@ -9,7 +9,7 @@ while index < len(my_list):
     else:
         print(my_list[index])
     index += 1
-print('out of loop')
+
 
 
 
