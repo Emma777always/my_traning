@@ -9,7 +9,7 @@ def get_multiplied_digits(number):
         return first
     return 1
 
-print(get_multiplied_digits(50204))
+print(get_multiplied_digits(50203))
 
 
 
